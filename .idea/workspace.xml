@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3fce44c-be7a-460c-b919-7832d8ebe2c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principal_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/ShapesPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rahi/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rahi/NoShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rahi/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rahi/Cube.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,11 +44,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.rahi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rahi.Main" />
       <module name="solid_principal_practice" />
       <extension name="coverage">
@@ -73,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.rahi.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -85,11 +76,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651162707941</updated>
-      <workItem from="1651162709476" duration="3074000" />
+      <workItem from="1651162709476" duration="3740000" />
     </task>
+    <task id="LOCAL-00001" summary="Open closed principal followed.">
+      <created>1651165998873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651165998874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Open closed principal followed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Open closed principal followed." />
   </component>
 </project>
